@@ -1,0 +1,10 @@
+name: polygeek_lints
+description: My lints to share across projects.
+repository: https://github.com/polyGeek/flutter_lint_rules
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+    # Code is not allowed in this package. Do not add any dependencies or dev_dependencies.
