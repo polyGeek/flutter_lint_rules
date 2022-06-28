@@ -1,4 +1,4 @@
-name: polygeek_lints
+name: flutter_lint_rules
 description: My lints to share across projects.
 repository: https://github.com/polyGeek/flutter_lint_rules
 version: 1.0.0
