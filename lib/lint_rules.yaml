@@ -21,6 +21,7 @@ analyzer:
 
 linter:
   rules:
+    sort_child_properties_last: true
     always_use_package_imports: true
     avoid_print: false
     avoid_returning_null_for_future: false
