@@ -74,5 +74,6 @@ linter:
     unnecessary_overrides: true;
     unnecessary_parenthesis: true;
     use_setters_to_change_properties: true;
+    NewlineAtEndOfFile: false;
 
 
