@@ -45,7 +45,7 @@ linter:
     invariant_booleans: true
     iterable_contains_unrelated_type: true
     join_return_with_assignment: true
-    leading_newlines_in_multiline_strings: true
+    leading_newlines_in_multiline_strings: false
     library_names: true
     library_prefixes: true
     list_remove_unrelated_type: true
@@ -74,6 +74,6 @@ linter:
     unnecessary_overrides: true;
     unnecessary_parenthesis: true;
     use_setters_to_change_properties: true;
-    new_line_at_end_of_file: false;
+
 
 
